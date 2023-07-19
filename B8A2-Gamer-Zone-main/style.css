@@ -137,6 +137,17 @@ nav li {
     font-size: 45px;
     font-weight: 700;
 }
+#play-instantly-img-1{
+    height: 530px;
+    width: 450px;
+}
+#play-instantly-img-2{
+    position: relative;
+     bottom: 210px;
+     right: 120px;
+     width: 250px;
+     height: 300px;
+}
  
 
  
